@@ -1,3 +1,8 @@
+# Goerli Testnet
+WETH: [0xD654dC2673E7dc366a7c8F0cfc0594F07cbedBc4](https://goerli.etherscan.io/address/0xD654dC2673E7dc366a7c8F0cfc0594F07cbedBc4)  
+Factory: [0x44a9b5434F82b8bEDC7aB40bd19F94EAfAE50C6C](https://goerli.etherscan.io/address/0x44a9b5434F82b8bEDC7aB40bd19F94EAfAE50C6C)  
+Router: [0xb620d87B48828A87f0a6d04C66A867B7c6d6BADB](https://goerli.etherscan.io/address/0xb620d87B48828A87f0a6d04C66A867B7c6d6BADB)
+
 # Uniswap Interface
 
 [![Tests](https://github.com/Uniswap/uniswap-interface/workflows/Tests/badge.svg)](https://github.com/Uniswap/uniswap-interface/actions?query=workflow%3ATests)
